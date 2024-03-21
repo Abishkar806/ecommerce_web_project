@@ -1,0 +1,59 @@
+.navHead{
+    display: flex;
+    background: linear-gradient(#2A00B7,#42006C);
+        
+        color: white;
+    
+        padding: 10px;
+        justify-content: space-between;
+       
+        position: sticky;
+        top: 0;
+        
+     
+          
+    }
+    
+    .logo{
+        font-size: 2rem;
+        font-weight: bold;
+        cursor: pointer;
+    }
+    .logo:hover{
+        color:  #ff6600;
+    }
+    
+    .catHead{
+        display: flex;
+        gap: 20px;
+        align-items: center;
+        margin-right: 50px;
+    }
+    
+    .cat{
+        font-size: 1.2rem;
+    
+        cursor: pointer;
+    }
+    
+    .cat:hover{
+        color: #ff6600;
+        text-decoration: underline;
+    }
+    
+    .iconHead{
+        display: flex;
+        gap: 30px;
+        align-items: center;
+        margin-right: 50px;
+        cursor: pointer;
+    }
+.dog{
+    font-size: 1.2rem;
+    
+    cursor: pointer;
+
+}
+.dog:hover{
+    color: #ff6600;
+}

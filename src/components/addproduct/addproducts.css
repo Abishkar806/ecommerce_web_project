@@ -1,0 +1,9 @@
+.addproductContainer{
+    margin: 0;
+    /* height: 100vh; */
+    /* height:100vh; */
+    display:flex;
+    justify-content:center;
+    /* background: linear-gradient(#2A00B7,#42006C); */
+    background: #fff;
+}
